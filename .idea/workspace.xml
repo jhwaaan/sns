@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4318a470-184a-4bf4-81b2-f55ef8ee58a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../site-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../site-1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../site-1/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +23,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/../site-1/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="355">
-                  <caret line="1502" column="79" selection-start-line="1502" selection-start-column="29" selection-end-line="1502" selection-end-column="79" />
+                <state relative-caret-position="142">
+                  <caret line="889" column="30" selection-start-line="889" selection-start-column="30" selection-end-line="889" selection-end-column="30" />
                   <folding>
                     <element signature="e#1085#1092#0" expanded="true" />
                     <element signature="n#style#0;n#ul#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -275,7 +274,7 @@
       <updated>1547277514291</updated>
       <workItem from="1547277516624" duration="34451000" />
       <workItem from="1547636219756" duration="24256000" />
-      <workItem from="1547744425054" duration="7688000" />
+      <workItem from="1547744425054" duration="7918000" />
     </task>
     <task id="LOCAL-00001" summary="sns">
       <created>1547804239781</created>
@@ -333,11 +332,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547814071079</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sns-link 수정">
+      <created>1547815653377</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547815653377</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66395000" />
+    <option name="totallyTimeSpent" value="66625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="6" />
@@ -368,7 +374,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sns" />
     <MESSAGE value="sns-인" />
-    <option name="LAST_COMMIT_MESSAGE" value="sns-인" />
+    <MESSAGE value="sns-link 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="sns-link 수정" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../site-1/css/prism.css">
@@ -468,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../site-1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="1502" column="79" selection-start-line="1502" selection-start-column="29" selection-end-line="1502" selection-end-column="79" />
+        <state relative-caret-position="142">
+          <caret line="889" column="30" selection-start-line="889" selection-start-column="30" selection-end-line="889" selection-end-column="30" />
           <folding>
             <element signature="e#1085#1092#0" expanded="true" />
             <element signature="n#style#0;n#ul#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />

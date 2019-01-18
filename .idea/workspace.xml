@@ -70,8 +70,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/../site-1/js/fullpage.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1270" column="81" selection-start-line="1270" selection-start-column="76" selection-end-line="1270" selection-end-column="81" />
+                <state relative-caret-position="300">
+                  <caret line="1289" column="47" selection-start-line="1289" selection-start-column="47" selection-end-line="1289" selection-end-column="47" />
                   <folding>
                     <element signature="n#!!doc" expanded="true" />
                   </folding>
@@ -110,11 +110,23 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/../site-1/css/index.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="98">
                   <caret line="1266" column="8" selection-start-line="1265" selection-end-line="1266" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../site-1/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="15">
+                    <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+                  </first_editor>
+                  <second_editor />
                 </state>
               </provider>
             </entry>
@@ -159,13 +171,16 @@
       <find>span</find>
       <find>137588</find>
       <find>401</find>
-      <find>red</find>
       <find>콘츠</find>
       <find>87</find>
+      <find>red</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../site-1" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -177,6 +192,7 @@
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/js/page-animation.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/../site-1/README.md" />
       </list>
     </option>
   </component>
@@ -186,6 +202,7 @@
     <option name="width" value="1680" />
     <option name="height" value="967" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -208,11 +225,6 @@
               <item name="site-1" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="fullpage.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="site (1)" type="b2602c69:ProjectViewProjectNode" />
-              <item name="site-1" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -259,20 +271,29 @@
       <updated>1547277514291</updated>
       <workItem from="1547277516624" duration="34451000" />
       <workItem from="1547636219756" duration="24256000" />
-      <workItem from="1547744425054" duration="5614000" />
+      <workItem from="1547744425054" duration="5885000" />
     </task>
+    <task id="LOCAL-00001" summary="sns">
+      <created>1547804239781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547804239781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64321000" />
+    <option name="totallyTimeSpent" value="64592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="972" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" sideWeight="0.5016949" side_tool="true" visible="true" weight="0.1392405" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49830508" visible="true" weight="0.1392405" />
+      <window_info id="Favorites" order="0" sideWeight="0.5016949" side_tool="true" weight="0.1392405" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49830508" visible="true" weight="0.1392405" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -290,6 +311,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sns" />
+    <option name="LAST_COMMIT_MESSAGE" value="sns" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../site-1/css/prism.css">
@@ -381,16 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../site-1/js/fullpage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1270" column="81" selection-start-line="1270" selection-start-column="76" selection-end-line="1270" selection-end-column="81" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../site-1/js/page-animation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -416,6 +431,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="1266" column="8" selection-start-line="1265" selection-end-line="1266" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../site-1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../site-1/js/fullpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="1289" column="47" selection-start-line="1289" selection-start-column="47" selection-end-line="1289" selection-end-column="47" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
